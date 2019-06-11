@@ -1,2 +1,0 @@
-# SchoolProjects
-Projects backup
